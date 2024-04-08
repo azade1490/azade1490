@@ -18,7 +18,7 @@ You can reach out to me via email or the following social networks:
 
 - ✉️ azade1490@gmail.com-
 - 🔗 https://www.linkedin.com/in/mahnaz90
-- تلگرام: [<img src="telegram_icon.png" width="20px"/>](لینک تلگرام)
+Telegram: [@نام کاربری تلگرام] ![تلگرام](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/240px-Telegram_logo.svg.png)
 
 
 I'm interested in collaborating with you on new projects!
