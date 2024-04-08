@@ -18,7 +18,7 @@ You can reach out to me via email or the following social networks:
 
 - ✉️ azade1490@gmail.com-
 - 🔗 https://www.linkedin.com/in/mahnaz90
-- 🐦 
+
 
 
 I'm interested in collaborating with you on new projects!
