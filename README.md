@@ -17,7 +17,7 @@ Hello! I'm Mahnaz Azade, a web developer with experience in various frontend and
 You can reach out to me via email or the following social networks:
 
 - ✉️ azade1490@gmail.com
-- 🔗 https://www.linkedin.com/in/mahnaz90
+- 🔗 https://linkedin.com/in/mahnaz90
 - 💬 https://Telegram.me/mah_naz_90
 
 I'm interested in collaborating with you on new projects!
