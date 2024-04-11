@@ -1,6 +1,6 @@
 ### Hi there! 👋
 ##
-## I'm __Mahnaz Azade__
+## I'm **Mahnaz Azade**
 a web developer with experience in various frontend and backend technologies.
 
 ## Skills
