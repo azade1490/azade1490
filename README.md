@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hi there! 👋
 ##
-## I'm **Mahnaz Azade**
+## I'm <div dir="rtl">
+
+<span style="color: blue;">نام شما</span>، به وبسایت من خوش آمدید.
+
+</div>
 a web developer with experience in various frontend and backend technologies.
 
 ## Skills
