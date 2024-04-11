@@ -1,7 +1,7 @@
 ### Hi there 👋
 ##
 ## About Me
-Hello! I'm Mahnaz Azade, a web developer with experience in various frontend and backend technologies.
+I'm Mahnaz Azade, a web developer with experience in various frontend and backend technologies.
 
 ## Skills
 - 💻 HTML
