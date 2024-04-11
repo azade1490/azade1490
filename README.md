@@ -1,6 +1,6 @@
 ### Hi there 👋
 ##
-## I'm Mahnaz Azade
+## I'm <span style="color: blue;"> Mahnaz Azade</span>
 a web developer with experience in various frontend and backend technologies.
 
 ## Skills
