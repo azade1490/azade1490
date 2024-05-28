@@ -9,7 +9,8 @@ a web developer with experience in various frontend and backend technologies.
 - 🛰️ Web API
 - 📄 Razor Pages
 - ⚡ Blazor
-- 🏗️ Clean Architecture- 💻 HTML
+- 🏗️ Clean Architecture
+- 💻 HTML
 - 🎨 CSS
 - 💻 JavaScript
 
