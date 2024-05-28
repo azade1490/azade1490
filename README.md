@@ -4,14 +4,14 @@
 a web developer with experience in various frontend and backend technologies.
 
 ## Skills
-- 💻 HTML
-- 🎨 CSS
-- 💻 JavaScript
+
 - ⚙️ ASP.NET Core
 - 🛰️ Web API
 - 📄 Razor Pages
 - ⚡ Blazor
-- 🏗️ Clean Architecture
+- 🏗️ Clean Architecture- 💻 HTML
+- 🎨 CSS
+- 💻 JavaScript
 
 ## Contact Me
 You can reach out to me via email or the following social networks:
