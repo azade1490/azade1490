@@ -19,6 +19,6 @@ You can reach out to me via email or the following social networks:
 
 - ✉️ azade1490@gmail.com
 - 🔗 https://linkedin.com/in/azade1490
-- 💬 https://Telegram.me/mah_naz_90
+- 💬 https://t.me/azade1490
 
 I'm interested in collaborating with you on new projects!
