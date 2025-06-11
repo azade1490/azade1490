@@ -1,18 +1,18 @@
 ### Hi there! 👋
 ##
-## I'm **Mahnaz Azade**
+## I'm **Mahnaz Azad**
 a web developer with experience in various frontend and backend technologies.
 
 ## Skills
 
-- ⚙️ ASP.NET Core
+- 💡 ASP.NET Core
 - 🛰️ Web API
-- 📄 Razor Pages
 - ⚡ Blazor
+- ⌨️ Maui Blazor Hybrid
 - 🏗️ Clean Architecture
 - 💻 HTML
 - 🎨 CSS
-- 💻 JavaScript
+- 🖱 JavaScript
 
 ## Contact Me
 You can reach out to me via email or the following social networks:
