@@ -9,7 +9,7 @@ a web developer with experience in various frontend and backend technologies.
 - 🛰️ Web API
 - ⚡ Blazor
 - ⌨️ Maui Blazor Hybrid
-
+- 📐 architecture: microservice & DDD & clean
 
 ## Contact Me
 You can reach out to me via email or the following social networks:
