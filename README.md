@@ -5,10 +5,10 @@ a web developer with experience in various frontend and backend technologies.
 
 ## Skills
 
-- 💡 ASP.NET Core
-- 🛰️ Web API
-- ⚡ Blazor
-- ⌨️ Maui Blazor Hybrid
+- 🌐 ASP.NET Core
+- 🛢 Microsoft Sql Server
+- 🛰 Blazor
+- 📲 Maui Blazor Hybrid
 - 📐 architecture: Microservice - clean - DDD - CQRS
 
 ## Contact Me
