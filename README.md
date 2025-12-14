@@ -9,7 +9,7 @@ a web developer with experience in various frontend and backend technologies.
 - 🛢 Microsoft Sql Server
 - 🛰 Blazor
 - 📲 Maui Blazor Hybrid
-- 📐 architecture: Microservice - Clean - DDD - CQRS
+- 📐 Architecture: Microservice - Clean - DDD - CQRS
 
 ## Contact Me
 You can reach out to me via email or the following social networks:
